@@ -22,3 +22,11 @@ Aplicación web para **Mayoristas Loryon** que permite la gestión y visualizaci
 
 ## 🌐 Sitio en producción
 👉 http://mayoristasloryon.fwh.is/
+
+## 🗄️ Base de datos
+El proyecto incluye el archivo `schema.sql` con la estructura de la base de datos, que contempla:
+- Gestión de usuarios y roles
+- Carrito de compras e historial
+- Productos y proveedores
+- Recuperación de contraseña
+
